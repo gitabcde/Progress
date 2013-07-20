@@ -1,0 +1,5 @@
+获取glsl中数组使用数组名加上[0]，那么如何获取接下来的数组成员
+
+glGetProgramResourceiv中后面4个参数的意思
+
+
